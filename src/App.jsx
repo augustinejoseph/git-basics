@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
   console.log("1234567890",count);
   console.log(' THIS LOG WAS ADDED IN THE DEV BRANCH');
-
+  console.log("ADDED ADDITIONAL LOGS AS PART OF FURTHER DEVELOPMENT")
   return (
     <>
       <div>
