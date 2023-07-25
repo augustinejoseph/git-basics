@@ -5,8 +5,6 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-  console.log("1234567890",count);
-  console.log(' THIS LOG WAS ADDED IN THE DEV BRANCH');
 
   return (
     <>
